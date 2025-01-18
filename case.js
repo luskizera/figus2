@@ -2,6 +2,7 @@
             case "figroblox":
             case "figmeme":
             case "figanime":
+            case "figamor":
             case "figcoreana":
             case "figraiva":
             case "figengracada":
